@@ -1,0 +1,3 @@
+add support for encrypting more than one block at a time
+allow encryption of something useful, like numbers or whatever
+
